@@ -1,0 +1,54 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+
+<suite name="ESPN" allow-return-values="true" verbose="2">
+
+	<!-- <test name="ChampDrive Tests" preserve-order="true">
+	<parameter name="app" value="ChampDrive"   />	
+		<groups>
+			<run>
+				<include name="smoke_chrome"  />
+				<include name="smoke_firefox"  />
+				<include name="regression_chrome"  />
+				<include name="regression_firefox"  />
+				<include name="regress_all_firefox"  />
+			</run>
+		</groups>
+		<classes>
+			<class name="com.appium.champdrive.tests.AlertOptions" />
+			<class name="com.appium.champdrive.tests.ChangeSettings" />
+			<class name="com.appium.champdrive.tests.ShareScores" />
+		</classes>
+	</test> -->
+	
+	<!-- <test name="ChampDrive Tests" preserve-order="true">
+	<parameter name="app" value="WwuTest"   />	
+
+		<classes>
+			<class name="com.appium.wwu.tests.EMS" />
+			
+		</classes>
+	</test>  -->
+	
+	 <test name="ChampDrive Tests" preserve-order="true">
+	<parameter name="mbrowser" value="Chrome"   />	
+
+		<classes>
+			<class name="com.appium.taylormade.scripts.SearchProducts" />
+			
+		</classes>
+	</test>
+	
+<!--  	<test name="SportsCenter Tests" preserve-order="true">
+	<parameter name="app" value="SportsCenter"   />	
+		<classes>
+			<class name="com.appium.sportscentre.tests.UserSettings" />
+		</classes>
+	</test>
+	
+ 	<test name="CricInfo Tests" preserve-order="true">
+	<parameter name="app" value="CricInfo"   />	
+		<classes>
+			<class name="com.appium.crickinfo.tests.CrickOptions" />
+		</classes>
+	</test> -->
+</suite>

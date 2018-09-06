@@ -1,0 +1,3471 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="com.android.internal.policy.impl.PhoneWindow$DecorView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="backColor" value="0xEBEBEB"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="56" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_bar_container"/>
+<property type="class" value="com.android.internal.widget.ActionBarContainer"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="56" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_bar"/>
+<property type="class" value="com.android.internal.widget.ActionBarView"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="25">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="25">
+<properties>
+<property type="id" value="up"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="25">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_bar_title"/>
+<property type="text" value=""/>
+<property type="class" value="android.widget.TextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xF3F3F3"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_bar_subtitle"/>
+<property type="text" value=""/>
+<property type="class" value="android.widget.TextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xF3F3F3"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="56" ignored="false" w="65" web="false" x="0" y="25">
+<properties>
+<property type="class" value="com.android.internal.widget.ActionBarView$HomeView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Navigate up"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="65"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="16" ignored="false" w="16" web="false" x="0" y="45">
+<properties>
+<property type="id" value="up"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="45"/>
+<property type="width" value="16"/>
+<property type="height" value="16"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="34" ignored="false" w="48" web="false" x="13" y="36">
+<properties>
+<property type="id" value="home"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="13"/>
+<property type="y" value="36"/>
+<property type="width" value="48"/>
+<property type="height" value="34"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="56" ignored="false" w="118" web="false" x="65" y="25">
+<properties>
+<property type="text" value="Add Favorites"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xF3F3F3"/>
+<property type="enabled" value="true"/>
+<property type="x" value="65"/>
+<property type="y" value="25"/>
+<property type="width" value="118"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="26" ignored="false" w="24" web="false" x="576" y="40">
+<properties>
+<property type="class" value="com.android.internal.view.menu.ActionMenuView"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="576"/>
+<property type="y" value="40"/>
+<property type="width" value="24"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="26" ignored="false" w="24" web="false" x="576" y="40">
+<properties>
+<property type="id" value="menu_search"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="576"/>
+<property type="y" value="40"/>
+<property type="width" value="24"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="26" ignored="false" w="24" web="false" x="576" y="40">
+<properties>
+<property type="text" value="•"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="576"/>
+<property type="y" value="40"/>
+<property type="width" value="24"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="576" y="40">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="576"/>
+<property type="y" value="40"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_context_bar"/>
+<property type="class" value="com.android.internal.widget.ActionBarContextView"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="relative_notification_main"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="drawer_layout"/>
+<property type="class" value="android.support.v4.widget.FixedDrawerLayout"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="focused" value="true"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="listview"/>
+<property type="class" value="android.widget.ListView"/>
+<property type="knownSuperClass" value="android.widget.ListView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="header"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="26" ignored="false" w="142" web="false" x="16" y="97">
+<properties>
+<property type="id" value="settings_header_title"/>
+<property type="text" value="FAVORITE TEAMS"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x404040"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="97"/>
+<property type="width" value="142"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="568" web="false" x="16" y="123">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="123"/>
+<property type="width" value="568"/>
+<property type="height" value="2"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="600" web="false" x="0" y="128">
+<properties>
+<property type="id" value="header"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="128"/>
+<property type="width" value="600"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="26" ignored="false" w="118" web="false" x="16" y="144">
+<properties>
+<property type="id" value="settings_header_title"/>
+<property type="text" value="LOCAL TEAMS"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x404040"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="144"/>
+<property type="width" value="118"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="568" web="false" x="16" y="170">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="170"/>
+<property type="width" value="568"/>
+<property type="height" value="2"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="175">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="175"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="175">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="175"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="194">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="194"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="185">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="185"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="185">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Cubs"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="185"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="210">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="MLB"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="210"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="480" y="183">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="480"/>
+<property type="y" value="183"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="17" ignored="false" w="16" web="false" x="496" y="198">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x2F6BC8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="496"/>
+<property type="y" value="198"/>
+<property type="width" value="16"/>
+<property type="height" value="17"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="480" y="183">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="480"/>
+<property type="y" value="183"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="183">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="183"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="239">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="239"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="239">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="239"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="239">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="239"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="258">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="258"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="249">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="249"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="249">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Drake"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="249"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="274">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NCAA Football"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="274"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="480" y="247">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="480"/>
+<property type="y" value="247"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="17" ignored="false" w="16" web="false" x="496" y="262">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="496"/>
+<property type="y" value="262"/>
+<property type="width" value="16"/>
+<property type="height" value="17"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="480" y="247">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="480"/>
+<property type="y" value="247"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="247">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="247"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="303">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="303"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="303">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="303"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="303">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="303"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="322">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="322"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="313">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="313"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="313">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Iowa"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="313"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="338">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NCAA Football"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="338"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="303">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="303"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="303">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="303"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="303">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="303"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="311">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="311"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="367">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="367"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="367">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="367"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="367">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="367"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="386">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="386"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="377">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="377"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="377">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Iowa State"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="377"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="402">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NCAA Football"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="402"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="367">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="367"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="367">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="367"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="367">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="367"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="375">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="375"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="431">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="431"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="431">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="431"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="431">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="431"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="450">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="450"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="441">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="441"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="441">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Bulls"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="441"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="466">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NBA"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="466"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="431">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="431"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="431">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="431"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="431">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="431"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="439">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="439"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="495">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="495"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="495">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="495"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="495">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="495"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="514">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="514"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="505">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="505"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="505">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Nuggets"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="505"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="530">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NBA"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="530"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="495">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="495"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="495">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="495"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="495">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="495"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="503">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="503"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="559">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="559"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="559">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="559"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="559">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="559"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="578">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="578"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="569">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="569"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="569">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Creighton"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="569"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="594">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NCAA Basketball"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="594"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="559">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="559"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="559">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="559"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="559">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="559"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="567">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="567"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="623">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="623"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="623">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="623"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="623">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="623"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="642">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="642"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="633">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="633"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="633">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Iowa State"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="633"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="658">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NCAA Basketball"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="658"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="623">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="623"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="623">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="623"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="623">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="623"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="631">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="631"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="687">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="687"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="687">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="687"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="687">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="687"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="706">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="706"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="697">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="697"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="697">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Drake"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="697"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="722">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NCAA Basketball"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="722"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="687">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="687"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="687">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="687"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="687">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="687"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="695">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="695"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="751">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="751"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="65" ignored="false" w="600" web="false" x="0" y="751">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="751"/>
+<property type="width" value="600"/>
+<property type="height" value="65"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="568" web="false" x="16" y="751">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="751"/>
+<property type="width" value="568"/>
+<property type="height" value="64"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="25" web="false" x="24" y="770">
+<properties>
+<property type="id" value="team_image"/>
+<property type="class" value="com.espn.widgets.CombinerNetworkImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="770"/>
+<property type="width" value="25"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="43" ignored="false" w="471" web="false" x="57" y="761">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="761"/>
+<property type="width" value="471"/>
+<property type="height" value="43"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="471" web="false" x="57" y="761">
+<properties>
+<property type="id" value="team_name"/>
+<property type="text" value="Wild"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="761"/>
+<property type="width" value="471"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="18" ignored="false" w="471" web="false" x="57" y="786">
+<properties>
+<property type="id" value="league_name"/>
+<property type="text" value="NHL"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x656C72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="57"/>
+<property type="y" value="786"/>
+<property type="width" value="471"/>
+<property type="height" value="18"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="751">
+<properties>
+<property type="id" value="alert_bell"/>
+<property type="class" value="com.espn.framework.ui.alerts.AlertBell"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="751"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="16" y="751">
+<properties>
+<property type="text" value="ì"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="751"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="751">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="751"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="528" y="759">
+<properties>
+<property type="id" value="favorite_star"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="528"/>
+<property type="y" value="759"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="815">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="815"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="600" web="false" x="0" y="815">
+<properties>
+<property type="id" value="header"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="815"/>
+<property type="width" value="600"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="26" ignored="false" w="223" web="false" x="16" y="831">
+<properties>
+<property type="id" value="settings_header_title"/>
+<property type="text" value="SPORTS AND COMPETITIONS"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x404040"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="831"/>
+<property type="width" value="223"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="568" web="false" x="16" y="857">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="857"/>
+<property type="width" value="568"/>
+<property type="height" value="2"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="45" ignored="false" w="600" web="false" x="0" y="862">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="862"/>
+<property type="width" value="600"/>
+<property type="height" value="45"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="568" web="false" x="16" y="862">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="862"/>
+<property type="width" value="568"/>
+<property type="height" value="44"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="24" ignored="false" w="24" web="false" x="24" y="872">
+<properties>
+<property type="id" value="icon_view"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="872"/>
+<property type="width" value="24"/>
+<property type="height" value="24"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="22" web="false" x="25" y="872">
+<properties>
+<property type="text" value="≥"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x6B6E72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="25"/>
+<property type="y" value="872"/>
+<property type="width" value="22"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="24" y="872">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="872"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="23" ignored="false" w="524" web="false" x="60" y="872">
+<properties>
+<property type="id" value="sport_name"/>
+<property type="text" value="NFL"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="60"/>
+<property type="y" value="872"/>
+<property type="width" value="524"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="862">
+<properties>
+<property type="id" value="drag_handle"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="862"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="906">
+<properties>
+<property type="id" value="divider"/>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="906"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="45" ignored="false" w="600" web="false" x="0" y="906">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="906"/>
+<property type="width" value="600"/>
+<property type="height" value="45"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="568" web="false" x="16" y="906">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="906"/>
+<property type="width" value="568"/>
+<property type="height" value="44"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="24" ignored="false" w="24" web="false" x="24" y="916">
+<properties>
+<property type="id" value="icon_view"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="916"/>
+<property type="width" value="24"/>
+<property type="height" value="24"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="22" web="false" x="25" y="916">
+<properties>
+<property type="text" value="±"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x6B6E72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="25"/>
+<property type="y" value="916"/>
+<property type="width" value="22"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="24" y="916">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="916"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="23" ignored="false" w="524" web="false" x="60" y="916">
+<properties>
+<property type="id" value="sport_name"/>
+<property type="text" value="NCAA Football"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="60"/>
+<property type="y" value="916"/>
+<property type="width" value="524"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="906">
+<properties>
+<property type="id" value="drag_handle"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="906"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="950">
+<properties>
+<property type="id" value="divider"/>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="950"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="45" ignored="false" w="600" web="false" x="0" y="950">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="950"/>
+<property type="width" value="600"/>
+<property type="height" value="45"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="568" web="false" x="16" y="950">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="950"/>
+<property type="width" value="568"/>
+<property type="height" value="44"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="24" ignored="false" w="24" web="false" x="24" y="960">
+<properties>
+<property type="id" value="icon_view"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="960"/>
+<property type="width" value="24"/>
+<property type="height" value="24"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="22" web="false" x="25" y="960">
+<properties>
+<property type="text" value="J"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x6B6E72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="25"/>
+<property type="y" value="960"/>
+<property type="width" value="22"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="24" y="960">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="960"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="23" ignored="false" w="524" web="false" x="60" y="960">
+<properties>
+<property type="id" value="sport_name"/>
+<property type="text" value="MLB"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="60"/>
+<property type="y" value="960"/>
+<property type="width" value="524"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="950">
+<properties>
+<property type="id" value="drag_handle"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="950"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="994">
+<properties>
+<property type="id" value="divider"/>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="994"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="45" ignored="false" w="600" web="false" x="0" y="994">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="994"/>
+<property type="width" value="600"/>
+<property type="height" value="45"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="568" web="false" x="16" y="994">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="994"/>
+<property type="width" value="568"/>
+<property type="height" value="44"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="24" ignored="false" w="24" web="false" x="24" y="1004">
+<properties>
+<property type="id" value="icon_view"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="1004"/>
+<property type="width" value="24"/>
+<property type="height" value="24"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="23" ignored="false" w="22" web="false" x="25" y="1004">
+<properties>
+<property type="text" value="P"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x6B6E72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="25"/>
+<property type="y" value="1004"/>
+<property type="width" value="22"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="24" y="1004">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="1004"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="23" ignored="false" w="524" web="false" x="60" y="1004">
+<properties>
+<property type="id" value="sport_name"/>
+<property type="text" value="NCAA Basketball"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x222222"/>
+<property type="enabled" value="true"/>
+<property type="x" value="60"/>
+<property type="y" value="1004"/>
+<property type="width" value="524"/>
+<property type="height" value="23"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="16" y="994">
+<properties>
+<property type="id" value="drag_handle"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="994"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="568" web="false" x="16" y="1038">
+<properties>
+<property type="id" value="divider"/>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0xC8C8C8"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16"/>
+<property type="y" value="1038"/>
+<property type="width" value="568"/>
+<property type="height" value="1"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="943" ignored="false" w="320" web="false" x="-319" y="81">
+<properties>
+<property type="id" value="list_drawer"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="81"/>
+<property type="width" value="320"/>
+<property type="height" value="943"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="320" web="false" x="-319" y="81">
+<properties>
+<property type="id" value="drawer_listview"/>
+<property type="class" value="android.widget.ListView"/>
+<property type="knownSuperClass" value="android.widget.ListView"/>
+<property type="backColor" value="0x2A2C2E"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="81"/>
+<property type="width" value="320"/>
+<property type="height" value="943"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="55" ignored="false" w="320" web="false" x="-319" y="81">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="81"/>
+<property type="width" value="320"/>
+<property type="height" value="55"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="320" web="false" x="-319" y="81">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="81"/>
+<property type="width" value="320"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="28" ignored="false" w="28" web="false" x="-301" y="94">
+<properties>
+<property type="id" value="icon"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="94"/>
+<property type="width" value="28"/>
+<property type="height" value="28"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="27" ignored="false" w="26" web="false" x="-300" y="94">
+<properties>
+<property type="text" value="$"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-300"/>
+<property type="y" value="94"/>
+<property type="width" value="26"/>
+<property type="height" value="27"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-301" y="94">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="94"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="270" web="false" x="-269" y="81">
+<properties>
+<property type="id" value="nav_drawer_item_title"/>
+<property type="text" value="SportsCenter"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-269"/>
+<property type="y" value="81"/>
+<property type="width" value="270"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-319" y="81">
+<properties>
+<property type="id" value="expandable_item_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="expand list"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="320" web="false" x="-319" y="135">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0x46484A"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="135"/>
+<property type="width" value="320"/>
+<property type="height" value="1"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="55" ignored="false" w="320" web="false" x="-319" y="135">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="135"/>
+<property type="width" value="320"/>
+<property type="height" value="55"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="320" web="false" x="-319" y="135">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="135"/>
+<property type="width" value="320"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="28" ignored="false" w="28" web="false" x="-301" y="148">
+<properties>
+<property type="id" value="icon"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="148"/>
+<property type="width" value="28"/>
+<property type="height" value="28"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="27" ignored="false" w="26" web="false" x="-300" y="148">
+<properties>
+<property type="text" value="B"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-300"/>
+<property type="y" value="148"/>
+<property type="width" value="26"/>
+<property type="height" value="27"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-301" y="148">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="148"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="270" web="false" x="-269" y="135">
+<properties>
+<property type="id" value="nav_drawer_item_title"/>
+<property type="text" value="Sports"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-269"/>
+<property type="y" value="135"/>
+<property type="width" value="270"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-319" y="135">
+<properties>
+<property type="id" value="expandable_item_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="expand list"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="135"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="320" web="false" x="-319" y="189">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0x46484A"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="189"/>
+<property type="width" value="320"/>
+<property type="height" value="1"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="55" ignored="false" w="320" web="false" x="-319" y="189">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="189"/>
+<property type="width" value="320"/>
+<property type="height" value="55"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="320" web="false" x="-319" y="189">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="189"/>
+<property type="width" value="320"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="28" ignored="false" w="28" web="false" x="-301" y="202">
+<properties>
+<property type="id" value="icon"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="202"/>
+<property type="width" value="28"/>
+<property type="height" value="28"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="27" ignored="false" w="26" web="false" x="-300" y="202">
+<properties>
+<property type="text" value="*"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-300"/>
+<property type="y" value="202"/>
+<property type="width" value="26"/>
+<property type="height" value="27"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-301" y="202">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="202"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="270" web="false" x="-269" y="189">
+<properties>
+<property type="id" value="nav_drawer_item_title"/>
+<property type="text" value="On Air"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-269"/>
+<property type="y" value="189"/>
+<property type="width" value="270"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-319" y="189">
+<properties>
+<property type="id" value="expandable_item_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="expand list"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="189"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="320" web="false" x="-319" y="243">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0x46484A"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="243"/>
+<property type="width" value="320"/>
+<property type="height" value="1"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="55" ignored="false" w="320" web="false" x="-319" y="243">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="243"/>
+<property type="width" value="320"/>
+<property type="height" value="55"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="320" web="false" x="-319" y="243">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="243"/>
+<property type="width" value="320"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="28" ignored="false" w="28" web="false" x="-301" y="256">
+<properties>
+<property type="id" value="icon"/>
+<property type="class" value="com.espn.framework.ui.util.IconView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="256"/>
+<property type="width" value="28"/>
+<property type="height" value="28"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="27" ignored="false" w="26" web="false" x="-300" y="256">
+<properties>
+<property type="text" value="|"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-300"/>
+<property type="y" value="256"/>
+<property type="width" value="26"/>
+<property type="height" value="27"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-301" y="256">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-301"/>
+<property type="y" value="256"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="270" web="false" x="-269" y="243">
+<properties>
+<property type="id" value="nav_drawer_item_title"/>
+<property type="text" value="Inbox"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-269"/>
+<property type="y" value="243"/>
+<property type="width" value="270"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="-319" y="243">
+<properties>
+<property type="id" value="expandable_item_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="expand list"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="243"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="320" web="false" x="-319" y="297">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0x46484A"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="297"/>
+<property type="width" value="320"/>
+<property type="height" value="1"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="56" ignored="false" w="320" web="false" x="-319" y="297">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="297"/>
+<property type="width" value="320"/>
+<property type="height" value="56"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="55" ignored="false" w="320" web="false" x="-319" y="297">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="297"/>
+<property type="width" value="320"/>
+<property type="height" value="55"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="55" ignored="false" w="280" web="false" x="-319" y="297">
+<properties>
+<property type="id" value="text1"/>
+<property type="text" value="FAVORITE TEAMS"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x6B6E72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="297"/>
+<property type="width" value="280"/>
+<property type="height" value="55"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="31" ignored="false" w="40" web="false" x="-39" y="321">
+<properties>
+<property type="id" value="favorite_reorder"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-39"/>
+<property type="y" value="321"/>
+<property type="width" value="40"/>
+<property type="height" value="31"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1" ignored="false" w="320" web="false" x="-319" y="352">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="backColor" value="0x46484A"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="352"/>
+<property type="width" value="320"/>
+<property type="height" value="1"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="158" ignored="false" w="320" web="false" x="-319" y="352">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="352"/>
+<property type="width" value="320"/>
+<property type="height" value="158"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="100" ignored="false" w="320" web="false" x="-319" y="352">
+<properties>
+<property type="id" value="my_view_imagenofavorite"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Content"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="352"/>
+<property type="width" value="320"/>
+<property type="height" value="100"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="38" ignored="false" w="127" web="false" x="-223" y="462">
+<properties>
+<property type="id" value="my_view_textnofavorite"/>
+<property type="text" value="No Favorite Teams"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x6B6E72"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-223"/>
+<property type="y" value="462"/>
+<property type="width" value="127"/>
+<property type="height" value="38"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="320" web="false" x="-319" y="509">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="backColor" value="0x3B3E40"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-319"/>
+<property type="y" value="509"/>
+<property type="width" value="320"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="298" web="false" x="-297" y="509">
+<properties>
+<property type="id" value="nav_drawer_add_favorites_button"/>
+<property type="text" value="Add Favorite"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0x6B6E72"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-297"/>
+<property type="y" value="509"/>
+<property type="width" value="298"/>
+<property type="height" value="54"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="id" value="split_action_bar"/>
+<property type="class" value="com.android.internal.widget.ActionBarContainer"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

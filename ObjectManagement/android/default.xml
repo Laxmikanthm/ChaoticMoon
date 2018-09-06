@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="default">
+<obj text="APPS" version="1">
+<images enable="false">
+<image file="default\APPS.PNG" jump="1" mainColor="-ffdc72" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="Apps" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Apps" textBB="" textIOS="" textWP="" value="//*[@text='Apps']" xpath="//*[@text='Apps']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="SPORTS_CENTRE" version="1">
+<images enable="false">
+<image file="default\SPORTS_CENTRE.PNG" jump="1" mainColor="-ffff00" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.TextView" classBB="" classIOS="" classWP="" contentDescription="SportsCenter" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="SportsCenter" textBB="" textIOS="" textWP="" value="//*[@text='SportsCenter']" xpath="//*[@text='SportsCenter']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="MENU" version="1">
+<images enable="false">
+<image file="default\MENU.PNG" jump="1" mainColor="-e2dddb" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.FrameLayout" classBB="" classIOS="" classWP="" contentDescription="Navigate up" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@class='android.widget.FrameLayout' and @contentDescription='Navigate up']" xpath="//*[@class='android.widget.FrameLayout' and @contentDescription='Navigate up']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="SIGN_IN" version="1">
+<images enable="false">
+<image file="default\SIGN_IN.PNG" jump="1" mainColor="-101" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Button" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Sign In" textBB="" textIOS="" textWP="" value="//*[@class='android.widget.Button' and @text='Sign In']" xpath="//*[@class='android.widget.Button' and @text='Sign In']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_SIGN_IN" version="1">
+<images enable="false">
+<image file="default\CHAMP_SIGN_IN.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableButton" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="btn_signin" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Sign In" textBB="" textIOS="" textWP="" value="btn_signin" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_USERNAME" version="1">
+<images enable="false">
+<image file="default\CHAMP_USERNAME.PNG" jump="1" mainColor="-110f13" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="name" value="username">
+<web-identifier name="id" value=""/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="44"/>
+<web-identifier name="placeholder" value="Member Name or Email"/>
+<web-identifier name="width" value="582"/>
+<web-identifier name="name" value="username"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="text"/>
+<web-identifier name="y" value="90"/>
+<web-identifier name="x" value="9"/>
+</web>
+</obj>
+<obj text="CHAMP_PASSWORD" version="1">
+<images enable="false">
+<image file="default\CHAMP_PASSWORD.PNG" jump="1" mainColor="-110f13" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="name" value="gspw">
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="44"/>
+<web-identifier name="placeholder" value="Password"/>
+<web-identifier name="name" value="gspw"/>
+<web-identifier name="width" value="582"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="password"/>
+<web-identifier name="y" value="135"/>
+<web-identifier name="x" value="9"/>
+</web>
+</obj>
+<obj text="CHAMP_LOGIN" version="1">
+<images enable="false">
+<image file="default\CHAMP_LOGIN.PNG" jump="1" mainColor="-dc9a45" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="id" value="loginBtn">
+<web-identifier name="id" value="loginBtn"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="45"/>
+<web-identifier name="name" value="submit"/>
+<web-identifier name="width" value="584"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="value" value="Sign In"/>
+<web-identifier name="type" value="submit"/>
+<web-identifier name="css" value="INPUT.submit"/>
+<web-identifier name="y" value="242"/>
+<web-identifier name="x" value="8"/>
+</web>
+</obj>
+<obj text="CHAMP_MENU" version="1">
+<images enable="false">
+<image file="default\CHAMP_MENU.PNG" jump="1" mainColor="-59ac6" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.android.internal.widget.ActionBarView$HomeView" classBB="" classIOS="" classWP="" contentDescription="Navigate up" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="contentDescription" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Navigate up" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_TOP_NEWS" version="1">
+<images enable="false">
+<image file="default\CHAMP_TOP_NEWS.PNG" jump="1" mainColor="-171718" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="custom_tab_textview" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Top News" textBB="" textIOS="" textWP="" value="//*[@id='custom_tab_textview' and @text='Top News']" xpath="//*[@id='custom_tab_textview' and @text='Top News']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_VIDEO" version="1">
+<images enable="false">
+<image file="default\CHAMP_VIDEO.PNG" jump="1" mainColor="-171718" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="custom_tab_textview" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Video" textBB="" textIOS="" textWP="" value="xpath=//*[@id='custom_tab_textview' and @text='Video']" xpath="xpath=//*[@id='custom_tab_textview' and @text='Video']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_ALLNEWS" version="1">
+<images enable="false">
+<image file="default\CHAMP_ALLNEWS.PNG" jump="1" mainColor="-171718" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="custom_tab_textview" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="All News" textBB="" textIOS="" textWP="" value="xpath=//*[@id='custom_tab_textview' and @text='All News']" xpath="xpath=//*[@id='custom_tab_textview' and @text='All News']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_SEARCH" version="1">
+<images enable="false">
+<image file="default\CHAMP_SEARCH.PNG" jump="1" mainColor="-29bc6" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.framework.ui.util.IconView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="menu_search" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="menu_search" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_SEARCHBOX" version="1">
+<images enable="false">
+<image file="default\CHAMP_SEARCHBOX.PNG" jump="1" mainColor="-59bc1" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.SearchView$SearchAutoComplete" classBB="" classIOS="" classWP="" contentDescription="Search query" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="search_src_text" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="search_src_text" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_TEAM_NAME" version="1">
+<images enable="false">
+<image file="default\CHAMP_TEAM_NAME.PNG" jump="1" mainColor="-dbdbdc" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.LinearLayout" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="team_name_ranking_container" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="team_name_ranking_container" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_SET_ALERTS" version="1">
+<images enable="false">
+<image file="default\CHAMP_SET_ALERTS.PNG" jump="1" mainColor="-80809" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="eftv_label" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Set Alerts" textBB="" textIOS="" textWP="" value="//*[@id='eftv_label' and @text='Set Alerts']" xpath="//*[@id='eftv_label' and @text='Set Alerts']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_PICK_CENTER" version="1">
+<images enable="false">
+<image file="default\CHAMP_PICK_CENTER.PNG" jump="1" mainColor="-c0c0d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="eftv_label" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="PickCenter" textBB="" textIOS="" textWP="" value="//*[@id='eftv_label' and @text='PickCenter']" xpath="//*[@id='eftv_label' and @text='PickCenter']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_SWITCH_ON" version="1">
+<images enable="false">
+<image file="default\CHAMP_SWITCH_ON.PNG" jump="1" mainColor="-202021" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Switch" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="switch_widget" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="//*[@id='switch_widget' and @checked='true']" xpath="//*[@id='switch_widget' and @checked='true']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_SWITCH_OFF" version="1">
+<images enable="false">
+<image file="default\CHAMP_SWITCH_OFF.PNG" jump="1" mainColor="-3b3b3c" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.Switch" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="switch_widget" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="//*[@id='switch_widget' and @checked='false']" textBB="" textIOS="" textWP="" value="//*[@id='switch_widget' and @checked='false']" xpath="//*[@id='switch_widget' and @checked='false']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_VIDEO_ON" version="1">
+<images enable="false">
+<image file="default\CHAMP_VIDEO_ON.PNG" jump="1" mainColor="-101" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.ImageView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="media_action_icon" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="media_action_icon" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_VIDEO_CONTAINER" version="1">
+<images enable="false">
+<image file="default\CHAMP_VIDEO_CONTAINER.PNG" jump="1" mainColor="-a399cc" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.VideoView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="surface_view" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="surface_view" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_PLAY_PAUSE" version="1">
+<images enable="false">
+<image file="default\CHAMP_PLAY_PAUSE.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.ImageView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="play_pause" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="play_pause" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_FAVOURITE_STAR" version="1">
+<images enable="false">
+<image file="default\CHAMP_FAVOURITE_STAR.PNG" jump="1" mainColor="-12150f" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.ImageView" classBB="" classIOS="" classWP="" contentDescription="Content" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="favorite_star" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="favorite_star" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="CHAMP_FAVOURITE_TEAM" version="1">
+<images enable="false">
+<image file="default\CHAMP_FAVOURITE_TEAM.PNG" jump="1" mainColor="-1c1c1d" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="team_name" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Boston College" textBB="" textIOS="" textWP="" value="team_name" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="SC_ScoresTab" version="1">
+<images enable="false">
+<image file="default\SC_ScoresTab.PNG" jump="1" mainColor="-161617" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="custom_tab_textview" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="SCORES" textBB="" textIOS="" textWP="" value="xpath=//*[@id='custom_tab_textview' and @text='SCORES']" xpath="xpath=//*[@id='custom_tab_textview' and @text='SCORES']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="SC_SignInBtn" version="1">
+<images enable="false">
+<image file="default\SC_SignInBtn.PNG" jump="1" mainColor="-101" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableButton" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="btn_signin" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Sign In" textBB="" textIOS="" textWP="" value="btn_signin" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="SC_USERNAME" version="1">
+<images enable="false">
+<image file="default\SC_USERNAME.PNG" jump="1" mainColor="-110f13" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="name" value="username">
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="44"/>
+<web-identifier name="placeholder" value="Member Name or Email"/>
+<web-identifier name="width" value="582"/>
+<web-identifier name="name" value="username"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="text"/>
+<web-identifier name="y" value="90"/>
+<web-identifier name="x" value="9"/>
+</web>
+</obj>
+<obj text="SC_PASSWORD" version="1">
+<images enable="false">
+<image file="default\SC_PASSWORD.PNG" jump="1" mainColor="-110f13" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="name" value="gspw">
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="44"/>
+<web-identifier name="placeholder" value="Password"/>
+<web-identifier name="width" value="582"/>
+<web-identifier name="name" value="gspw"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="password"/>
+<web-identifier name="y" value="135"/>
+<web-identifier name="x" value="9"/>
+</web>
+</obj>
+<obj text="SC_LOGIN" version="1">
+<images enable="false">
+<image file="default\SC_LOGIN.PNG" jump="1" mainColor="-dc9a45" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="id" value="loginBtn">
+<web-identifier name="id" value="loginBtn"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="45"/>
+<web-identifier name="width" value="584"/>
+<web-identifier name="name" value="submit"/>
+<web-identifier name="value" value="Sign In"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="submit"/>
+<web-identifier name="y" value="242"/>
+<web-identifier name="css" value="INPUT.submit"/>
+<web-identifier name="x" value="8"/>
+</web>
+</obj>
+<obj text="SC_MENU" version="1">
+<images enable="false">
+<image file="default\SC_MENU.PNG" jump="1" mainColor="-dfdbdb" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="android.widget.ImageView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="up" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="up" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="SC_FAVOURITE_TEAM" version="1">
+<images enable="false">
+<image file="default\SC_FAVOURITE_TEAM.PNG" jump="1" mainColor="-1d1d1e" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableTextView" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="team_name" method="id" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Cubs" textBB="" textIOS="" textWP="" value="team_name" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="FF_SignInBtn" version="1">
+<images enable="false">
+<image file="default\FF_SignInBtn.PNG" jump="1" mainColor="-1000000" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="com.espn.widgets.fontable.EspnFontableButton" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="false" enableWP="false" hint="" id="btn_signin" method="xpath" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="Sign In" textBB="" textIOS="" textWP="" value="xpath=//*[@id='btn_signin' and @text='Sign In']" xpath="xpath=//*[@id='btn_signin' and @text='Sign In']" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="FF_USERNAME" version="1">
+<images enable="false">
+<image file="default\FF_USERNAME.PNG" jump="1" mainColor="-110f13" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="name" value="username">
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="44"/>
+<web-identifier name="placeholder" value="Member Name or Email"/>
+<web-identifier name="width" value="582"/>
+<web-identifier name="name" value="username"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="text"/>
+<web-identifier name="y" value="90"/>
+<web-identifier name="x" value="9"/>
+</web>
+</obj>
+<obj text="FF_PASSWORD" version="1">
+<images enable="false">
+<image file="default\FF_PASSWORD.PNG" jump="1" mainColor="-110f13" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="name" value="gspw">
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="44"/>
+<web-identifier name="placeholder" value="Password"/>
+<web-identifier name="width" value="582"/>
+<web-identifier name="name" value="gspw"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="password"/>
+<web-identifier name="y" value="135"/>
+<web-identifier name="x" value="9"/>
+</web>
+</obj>
+<obj text="FF_LOGIN" version="1">
+<images enable="false">
+<image file="default\FF_LOGIN.PNG" jump="1" mainColor="-dc9a45" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="id" value="loginBtn">
+<web-identifier name="id" value="loginBtn"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="45"/>
+<web-identifier name="width" value="584"/>
+<web-identifier name="name" value="submit"/>
+<web-identifier name="value" value="Sign In"/>
+<web-identifier name="nodeName" value="INPUT"/>
+<web-identifier name="type" value="submit"/>
+<web-identifier name="y" value="242"/>
+<web-identifier name="css" value="INPUT.submit"/>
+<web-identifier name="x" value="8"/>
+</web>
+</obj>
+<obj text="FF_HomeScreen" version="1">
+<images enable="false">
+<image file="default\FF_HomeScreen_1.PNG" jump="1" mainColor="cb148" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="id" value="entrySelectorParent">
+<web-identifier name="id" value="entrySelectorParent"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="text" value="Sign In / Register"/>
+<web-identifier name="height" value="44"/>
+<web-identifier name="width" value="584"/>
+<web-identifier name="nodeName" value="DIV"/>
+<web-identifier name="css" value="DIV.sectionItem.card"/>
+<web-identifier name="y" value="536"/>
+<web-identifier name="x" value="8"/>
+</web>
+</obj>
+<obj text="FF_Settings" version="1">
+<images enable="false">
+<image file="default\FF_Settings.PNG" jump="1" mainColor="-f14fb7" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="false" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="class" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="true" method="id" value="appSettings">
+<web-identifier name="id" value="appSettings"/>
+<web-identifier name="onScreen" value="true"/>
+<web-identifier name="height" value="48"/>
+<web-identifier name="width" value="52"/>
+<web-identifier name="nodeName" value="DIV"/>
+<web-identifier name="y" value="25"/>
+<web-identifier name="css" value="DIV.icon.gear"/>
+<web-identifier name="x" value="548"/>
+</web>
+</obj>
+</domain>

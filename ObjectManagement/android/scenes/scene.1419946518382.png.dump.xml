@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="com.android.internal.policy.impl.PhoneWindow$DecorView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="56" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_bar_container"/>
+<property type="class" value="com.android.internal.widget.ActionBarContainer"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="56" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_bar"/>
+<property type="class" value="com.android.internal.widget.ActionBarView"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="56" ignored="false" w="63" web="false" x="44" y="25">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="false"/>
+<property type="x" value="44"/>
+<property type="y" value="25"/>
+<property type="width" value="63"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="44" y="25">
+<properties>
+<property type="id" value="up"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="44"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="25" ignored="false" w="55" web="false" x="44" y="40">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="44"/>
+<property type="y" value="40"/>
+<property type="width" value="55"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="25" ignored="false" w="55" web="false" x="44" y="40">
+<properties>
+<property type="id" value="action_bar_title"/>
+<property type="text" value="Sign In"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xF3F3F3"/>
+<property type="enabled" value="true"/>
+<property type="x" value="44"/>
+<property type="y" value="40"/>
+<property type="width" value="55"/>
+<property type="height" value="25"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="44" y="40">
+<properties>
+<property type="id" value="action_bar_subtitle"/>
+<property type="text" value=""/>
+<property type="class" value="android.widget.TextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xF3F3F3"/>
+<property type="enabled" value="true"/>
+<property type="x" value="44"/>
+<property type="y" value="40"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="56" ignored="false" w="44" web="false" x="0" y="25">
+<properties>
+<property type="class" value="com.android.internal.widget.ActionBarView$HomeView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Navigate up"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="44"/>
+<property type="height" value="56"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="16" ignored="false" w="16" web="false" x="0" y="45">
+<properties>
+<property type="id" value="up"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="45"/>
+<property type="width" value="16"/>
+<property type="height" value="16"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="34" ignored="false" w="27" web="false" x="13" y="36">
+<properties>
+<property type="id" value="home"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="13"/>
+<property type="y" value="36"/>
+<property type="width" value="27"/>
+<property type="height" value="34"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="600" y="53">
+<properties>
+<property type="class" value="com.android.internal.view.menu.ActionMenuView"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="600"/>
+<property type="y" value="53"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="25">
+<properties>
+<property type="id" value="action_context_bar"/>
+<property type="class" value="com.android.internal.widget.ActionBarContextView"/>
+<property type="knownSuperClass" value="android.view.ViewGroup"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="espn_browser_ad_container"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="false" x="0" y="81">
+<properties>
+<property type="id" value="espn_browser_web_view"/>
+<property type="class" value="com.espn.web.BrowserWebView"/>
+<property type="knownSuperClass" value="android.webkit.WebView"/>
+<property type="focused" value="true"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="81">
+<properties>
+<property type="id" value="espn_browser_ad_safe"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="50" ignored="false" w="50" web="false" x="275" y="527">
+<properties>
+<property type="id" value="progressBar"/>
+<property type="class" value="android.widget.ProgressBar"/>
+<property type="knownSuperClass" value="android.widget.ProgressBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="275"/>
+<property type="y" value="527"/>
+<property type="width" value="50"/>
+<property type="height" value="50"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="id" value="split_action_bar"/>
+<property type="class" value="com.android.internal.widget.ActionBarContainer"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="943" ignored="false" w="600" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="document"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="HTML"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="943" ignored="false" w="600" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="BODY"/>
+<property type="focused" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="600"/>
+<property type="height" value="943"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="240" ignored="false" w="584" web="true" x="8" y="89">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="&#9;&#9;"/>
+<property type="css" value="DIV.wrapper"/>
+<property type="x" value="8"/>
+<property type="y" value="89"/>
+<property type="width" value="584"/>
+<property type="height" value="240"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="198" ignored="false" w="584" web="true" x="8" y="89">
+<properties>
+<property type="nodeName" value="FORM"/>
+<property type="id" value="login"/>
+<property type="x" value="8"/>
+<property type="y" value="89"/>
+<property type="width" value="584"/>
+<property type="height" value="198"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="userAgent"/>
+<property type="type" value="hidden"/>
+<property type="value" value="Mozilla/5.0 (Linux; U; Android 4.1.2; en-us; SM-T210R Build/JZO54K) AppleWebKit/534.30 (KHTML"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="fb"/>
+<property type="type" value="hidden"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="create"/>
+<property type="type" value="hidden"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="action"/>
+<property type="type" value="hidden"/>
+<property type="value" value="login"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="app"/>
+<property type="type" value="hidden"/>
+<property type="value" value="sportscenter"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="81">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="returnURL"/>
+<property type="type" value="hidden"/>
+<property type="x" value="0"/>
+<property type="y" value="81"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="46" ignored="false" w="584" web="true" x="8" y="89">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="usernanerow"/>
+<property type="css" value="DIV.row"/>
+<property type="x" value="8"/>
+<property type="y" value="89"/>
+<property type="width" value="584"/>
+<property type="height" value="46"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="582" web="true" x="9" y="90">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="username"/>
+<property type="placeholder" value="Member Name or Email"/>
+<property type="type" value="text"/>
+<property type="x" value="9"/>
+<property type="y" value="90"/>
+<property type="width" value="582"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="45" ignored="false" w="584" web="true" x="8" y="135">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="passwordrow"/>
+<property type="css" value="DIV.row"/>
+<property type="x" value="8"/>
+<property type="y" value="135"/>
+<property type="width" value="584"/>
+<property type="height" value="45"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="582" web="true" x="9" y="135">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="name" value="gspw"/>
+<property type="placeholder" value="Password"/>
+<property type="type" value="password"/>
+<property type="x" value="9"/>
+<property type="y" value="135"/>
+<property type="width" value="582"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="17" ignored="false" w="584" web="true" x="8" y="200">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="id" value="forgotusername"/>
+<property type="x" value="8"/>
+<property type="y" value="200"/>
+<property type="width" value="584"/>
+<property type="height" value="17"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="18" ignored="false" w="154" web="true" x="222" y="200">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="id" value="login_forgot"/>
+<property type="text" value="Forgot your Password?"/>
+<property type="css" value="A[href='#']"/>
+<property type="x" value="222"/>
+<property type="y" value="200"/>
+<property type="width" value="154"/>
+<property type="height" value="18"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="45" ignored="false" w="584" web="true" x="8" y="242">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="id" value="loginBtn"/>
+<property type="name" value="submit"/>
+<property type="type" value="submit"/>
+<property type="value" value="Sign In"/>
+<property type="css" value="INPUT.submit"/>
+<property type="x" value="8"/>
+<property type="y" value="242"/>
+<property type="width" value="584"/>
+<property type="height" value="45"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="17" ignored="false" w="584" web="true" x="8" y="312">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="id" value="customercare"/>
+<property type="text" value="  and "/>
+<property type="css" value="P.customercare"/>
+<property type="x" value="8"/>
+<property type="y" value="312"/>
+<property type="width" value="584"/>
+<property type="height" value="17"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="17" ignored="false" w="82" web="true" x="201" y="312">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="text" value="Terms of Use"/>
+<property type="css" value="A[href='#']"/>
+<property type="x" value="201"/>
+<property type="y" value="312"/>
+<property type="width" value="82"/>
+<property type="height" value="17"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="17" ignored="false" w="86" web="true" x="312" y="312">
+<properties>
+<property type="nodeName" value="A"/>
+<property type="text" value="Privacy Policy"/>
+<property type="css" value="A[href='#']"/>
+<property type="x" value="312"/>
+<property type="y" value="312"/>
+<property type="width" value="86"/>
+<property type="height" value="17"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

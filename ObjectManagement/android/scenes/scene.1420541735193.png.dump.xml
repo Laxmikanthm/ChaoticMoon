@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="com.android.internal.policy.impl.PhoneWindow$DecorView"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="backColor" value="0x000000"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.view.ViewStub"/>
+<property type="knownSuperClass" value="android.view.ViewStub"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="mainFragmentContainer"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="class" value="android.support.v4.app.NoSaveStateFrameLayout"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="onboarding_welcomeImageViewFlipper"/>
+<property type="class" value="com.espn.fantasy.lm.view.WelcomeImageViewSwitcher"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="108" ignored="false" w="120" web="false" x="240" y="709">
+<properties>
+<property type="id" value="splash_logo"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Welcome Image"/>
+<property type="enabled" value="true"/>
+<property type="x" value="240"/>
+<property type="y" value="709"/>
+<property type="width" value="120"/>
+<property type="height" value="108"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="48" ignored="false" w="48" web="false" x="276" y="837">
+<properties>
+<property type="id" value="progress_bar"/>
+<property type="class" value="android.widget.ProgressBar"/>
+<property type="knownSuperClass" value="android.widget.ProgressBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="276"/>
+<property type="y" value="837"/>
+<property type="width" value="48"/>
+<property type="height" value="48"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="187" ignored="false" w="600" web="false" x="0" y="837">
+<properties>
+<property type="id" value="onboarding_controls"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="837"/>
+<property type="width" value="600"/>
+<property type="height" value="187"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="512" web="false" x="44" y="837">
+<properties>
+<property type="id" value="btn_fbsign"/>
+<property type="text" value="Log in with Facebook"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableButton"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="backColor" value="0x425C9E"/>
+<property type="enabled" value="true"/>
+<property type="x" value="44"/>
+<property type="y" value="837"/>
+<property type="width" value="512"/>
+<property type="height" value="48"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="48" ignored="false" w="512" web="false" x="44" y="903">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="x" value="44"/>
+<property type="y" value="903"/>
+<property type="width" value="512"/>
+<property type="height" value="48"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="237" web="false" x="44" y="903">
+<properties>
+<property type="id" value="btn_register"/>
+<property type="text" value="Register"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableButton"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="textColor" value="0x000000"/>
+<property type="backColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="44"/>
+<property type="y" value="903"/>
+<property type="width" value="237"/>
+<property type="height" value="48"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="48" ignored="false" w="237" web="false" x="319" y="903">
+<properties>
+<property type="id" value="btn_signin"/>
+<property type="text" value="Sign In"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableButton"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="textColor" value="0x000000"/>
+<property type="backColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="319"/>
+<property type="y" value="903"/>
+<property type="width" value="237"/>
+<property type="height" value="48"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="25" ignored="false" w="128" web="false" x="236" y="975">
+<properties>
+<property type="id" value="tv_trysports"/>
+<property type="text" value="Sign Up Later"/>
+<property type="class" value="com.espn.widgets.fontable.EspnFontableTextView"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="textColor" value="0xFFFFFF"/>
+<property type="enabled" value="true"/>
+<property type="x" value="236"/>
+<property type="y" value="975"/>
+<property type="width" value="128"/>
+<property type="height" value="25"/>
+<property type="hidden" value="true"/>
+<property type="parentHidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="snapshotImage"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="999" ignored="false" w="600" web="false" x="0" y="25">
+<properties>
+<property type="id" value="webview"/>
+<property type="class" value="com.espn.fantasy.lm.view.MainWebView"/>
+<property type="knownSuperClass" value="android.webkit.WebView"/>
+<property type="focused" value="true"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="999" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="document"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="HTML"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="BODY"/>
+<property type="focused" value="true"/>
+<property type="css" value="BODY.FFL.device-phone.platform-Android.platformVersionName-JellyBean.chromeVersion-undefined"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="951" ignored="false" w="320" web="true" x="-320" y="73">
+<properties>
+<property type="nodeName" value="NAV"/>
+<property type="id" value="mainNav"/>
+<property type="x" value="-320"/>
+<property type="y" value="73"/>
+<property type="width" value="320"/>
+<property type="height" value="951"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="951" ignored="false" w="320" web="true" x="-320" y="73">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="navViewContainer"/>
+<property type="x" value="-320"/>
+<property type="y" value="73"/>
+<property type="width" value="320"/>
+<property type="height" value="951"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="320" web="true" x="-320" y="73">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.navView"/>
+<property type="x" value="-320"/>
+<property type="y" value="73"/>
+<property type="width" value="320"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="HEADER"/>
+<property type="css" value="HEADER.sportColorBG"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="FORM"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="INPUT"/>
+<property type="id" value="findPlayerInput"/>
+<property type="placeholder" value="Find Player"/>
+<property type="type" value="search"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="navSearchIcon"/>
+<property type="css" value="DIV.icon.search"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="navSearchX"/>
+<property type="css" value="DIV.icon.circleX.clearTextFieldX"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="findPlayerCancelButton"/>
+<property type="text" value="Cancel"/>
+<property type="css" value="DIV.standardButton.whiteButton.transparentButton"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="951" ignored="false" w="320" web="true" x="-320" y="73">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.navItemContainer"/>
+<property type="x" value="-320"/>
+<property type="y" value="73"/>
+<property type="width" value="320"/>
+<property type="height" value="951"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="55" ignored="false" w="320" web="true" x="-320" y="73">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Home"/>
+<property type="css" value="DIV.navItem.active"/>
+<property type="x" value="-320"/>
+<property type="y" value="73"/>
+<property type="width" value="320"/>
+<property type="height" value="55"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="55" ignored="false" w="320" web="true" x="-320" y="128">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Settings"/>
+<property type="css" value="DIV.navItem.appSettings"/>
+<property type="x" value="-320"/>
+<property type="y" value="128"/>
+<property type="width" value="320"/>
+<property type="height" value="55"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="999" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="container"/>
+<property type="css" value="DIV.home-container"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="HEADER"/>
+<property type="css" value="HEADER.sportColorBG.gameLogoBefore.sportLogoHeader"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="48"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="backButton"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="navToggle"/>
+<property type="text" value=" "/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="48" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="H1"/>
+<property type="css" value="H1.sportLogoHeader"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="48"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value=" "/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.ceSearch"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.searchBox"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value=" "/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon.closeX"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.searchLabel"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="P"/>
+<property type="text" value=" Last Name Search"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon.search.label"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon.search.right"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="47" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="entrySelectorParent"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="47"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="entrySelector"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="headerRightBg"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="600" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="headerRight"/>
+<property type="x" value="600"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="600" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="appSettings"/>
+<property type="x" value="600"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="userWelcome"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="OL"/>
+<property type="css" value="OL.feeds"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.updateApp"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="600" web="true" x="0" y="73">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.advertisements"/>
+<property type="x" value="0"/>
+<property type="y" value="73"/>
+<property type="width" value="600"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="50" ignored="false" w="320" web="true" x="140" y="974">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="ad-9"/>
+<property type="css" value="DIV.advertisement.footer"/>
+<property type="x" value="140"/>
+<property type="y" value="974"/>
+<property type="width" value="320"/>
+<property type="height" value="50"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="50" ignored="false" w="320" web="true" x="140" y="974">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="css" value="IMG.adImage"/>
+<property type="x" value="140"/>
+<property type="y" value="974"/>
+<property type="width" value="320"/>
+<property type="height" value="50"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="901" ignored="false" w="600" web="true" x="0" y="73">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="view"/>
+<property type="css" value="DIV.view.home.home-view"/>
+<property type="x" value="0"/>
+<property type="y" value="73"/>
+<property type="width" value="600"/>
+<property type="height" value="901"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="626" ignored="false" w="600" web="true" x="0" y="73">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="leftColumn"/>
+<property type="x" value="0"/>
+<property type="y" value="73"/>
+<property type="width" value="600"/>
+<property type="height" value="626"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="600" web="true" x="0" y="93">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="signIn"/>
+<property type="x" value="0"/>
+<property type="y" value="93"/>
+<property type="width" value="600"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="600" web="true" x="0" y="93">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.sectionList.cards"/>
+<property type="x" value="0"/>
+<property type="y" value="93"/>
+<property type="width" value="600"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="584" web="true" x="8" y="93">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="signInButton"/>
+<property type="text" value="Sign In / Register"/>
+<property type="css" value="DIV.button"/>
+<property type="x" value="8"/>
+<property type="y" value="93"/>
+<property type="width" value="584"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="signInNeedHelp"/>
+<property type="text" value="Need help? Call the ESPN Fantasy Help Line"/>
+<property type="css" value="DIV.sectionMessage"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="1-888-549-ESPN"/>
+<property type="css" value="DIV.helpPhoneNumber"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="516" ignored="false" w="600" web="true" x="0" y="168">
+<properties>
+<property type="nodeName" value="SECTION"/>
+<property type="id" value="news"/>
+<property type="x" value="0"/>
+<property type="y" value="168"/>
+<property type="width" value="600"/>
+<property type="height" value="516"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="21" ignored="false" w="600" web="true" x="0" y="168">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.sectionHeader"/>
+<property type="x" value="0"/>
+<property type="y" value="168"/>
+<property type="width" value="600"/>
+<property type="height" value="21"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="15" ignored="false" w="570" web="true" x="15" y="168">
+<properties>
+<property type="nodeName" value="H1"/>
+<property type="text" value="News &amp; Analysis"/>
+<property type="x" value="15"/>
+<property type="y" value="168"/>
+<property type="width" value="570"/>
+<property type="height" value="15"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="493" ignored="false" w="600" web="true" x="0" y="191">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.sectionList.cards"/>
+<property type="x" value="0"/>
+<property type="y" value="191"/>
+<property type="width" value="600"/>
+<property type="height" value="493"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="337" ignored="false" w="584" web="true" x="8" y="191">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="topStory"/>
+<property type="x" value="8"/>
+<property type="y" value="191"/>
+<property type="width" value="584"/>
+<property type="height" value="337"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="337" ignored="false" w="584" web="true" x="8" y="191">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.photo"/>
+<property type="x" value="8"/>
+<property type="y" value="191"/>
+<property type="width" value="584"/>
+<property type="height" value="337"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="337" ignored="false" w="584" web="true" x="8" y="191">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.storyPhoto"/>
+<property type="x" value="8"/>
+<property type="y" value="191"/>
+<property type="width" value="584"/>
+<property type="height" value="337"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="337" ignored="false" w="584" web="true" x="8" y="191">
+<properties>
+<property type="nodeName" value="IMG"/>
+<property type="x" value="8"/>
+<property type="y" value="191"/>
+<property type="width" value="584"/>
+<property type="height" value="337"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="51" ignored="false" w="584" web="true" x="8" y="477">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Fantasy Fallout: 2014 season recap"/>
+<property type="css" value="DIV.headline"/>
+<property type="x" value="8"/>
+<property type="y" value="477"/>
+<property type="width" value="584"/>
+<property type="height" value="51"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="44" ignored="false" w="584" web="true" x="8" y="536">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="News"/>
+<property type="css" value="DIV.sectionItem.card"/>
+<property type="x" value="8"/>
+<property type="y" value="536"/>
+<property type="width" value="584"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon.rightCaret"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="44" ignored="false" w="584" web="true" x="8" y="588">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Now"/>
+<property type="css" value="DIV.sectionItem.card"/>
+<property type="x" value="8"/>
+<property type="y" value="588"/>
+<property type="width" value="584"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon.rightCaret"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="44" ignored="false" w="584" web="true" x="8" y="640">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Videos"/>
+<property type="css" value="DIV.sectionItem.card"/>
+<property type="x" value="8"/>
+<property type="y" value="640"/>
+<property type="width" value="584"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="css" value="SPAN.icon.rightCaret"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="playercard"/>
+<property type="css" value="DIV.modalView"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.navigationControllerContainer.fromcenter"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.navigationControllerView"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="HEADER"/>
+<property type="css" value="HEADER.modalHeader.gameLogoBefore.sportLogoHeader"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.buttons.sportColorText"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.standardButton.closeButton.backButton"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value=" "/>
+<property type="css" value="DIV.title"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.sectionContainer"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.contents.overview"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.contents.statsSummary"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.tableContainer.contentContainer.card"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.contents.outlook"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.outlookContainer.contentContainer.card"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.contents.news.feed"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.itemsContainer.contentContainer.card"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.searchResultsContainer.dropdownContainer"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.dropdownBody"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="0" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="OL"/>
+<property type="css" value="OL.dropdownOptions.searchResults"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="0"/>
+<property type="height" value="0"/>
+<property type="onScreen" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="231" ignored="false" w="290" web="true" x="155" y="409">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="thickbox0"/>
+<property type="css" value="DIV.hidden.thickbox.fromcenter.center.tocenter.webkitOverflowScrollingTouchFix.simple.signInEntry.withFooter.withTitle.animate"/>
+<property type="x" value="155"/>
+<property type="y" value="409"/>
+<property type="width" value="290"/>
+<property type="height" value="231"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="49" ignored="false" w="290" web="true" x="155" y="409">
+<properties>
+<property type="nodeName" value="HEADER"/>
+<property type="x" value="155"/>
+<property type="y" value="409"/>
+<property type="width" value="290"/>
+<property type="height" value="49"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="260" web="true" x="170" y="409">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.title"/>
+<property type="x" value="170"/>
+<property type="y" value="409"/>
+<property type="width" value="260"/>
+<property type="height" value="48"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="18" ignored="false" w="52" web="true" x="170" y="424">
+<properties>
+<property type="nodeName" value="SPAN"/>
+<property type="text" value="Sign In"/>
+<property type="x" value="170"/>
+<property type="y" value="424"/>
+<property type="width" value="52"/>
+<property type="height" value="18"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="134" ignored="false" w="290" web="true" x="155" y="458">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.body"/>
+<property type="x" value="155"/>
+<property type="y" value="458"/>
+<property type="width" value="290"/>
+<property type="height" value="134"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="104" ignored="false" w="260" web="true" x="170" y="473">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.buttonContainer"/>
+<property type="x" value="170"/>
+<property type="y" value="473"/>
+<property type="width" value="260"/>
+<property type="height" value="104"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="44" ignored="false" w="124" web="true" x="170" y="473">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="signInButton"/>
+<property type="text" value="Sign In"/>
+<property type="css" value="DIV.standardButton.large"/>
+<property type="x" value="170"/>
+<property type="y" value="473"/>
+<property type="width" value="124"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="44" ignored="false" w="124" web="true" x="304" y="473">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="registerButton"/>
+<property type="text" value="Register"/>
+<property type="css" value="DIV.standardButton.large"/>
+<property type="x" value="304"/>
+<property type="y" value="473"/>
+<property type="width" value="124"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="44" ignored="false" w="260" web="true" x="170" y="533">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="facebookButton"/>
+<property type="text" value="Sign in with Facebook"/>
+<property type="css" value="DIV.standardButton.solid.large"/>
+<property type="x" value="170"/>
+<property type="y" value="533"/>
+<property type="width" value="260"/>
+<property type="height" value="44"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="290" web="true" x="155" y="592">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="css" value="DIV.footer"/>
+<property type="x" value="155"/>
+<property type="y" value="592"/>
+<property type="width" value="290"/>
+<property type="height" value="48"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="48" ignored="false" w="290" web="true" x="155" y="592">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="text" value="Close"/>
+<property type="css" value="DIV.closeButton.standardButton.sportColorButton"/>
+<property type="x" value="155"/>
+<property type="y" value="592"/>
+<property type="width" value="290"/>
+<property type="height" value="48"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="999" ignored="false" w="600" web="true" x="0" y="25">
+<properties>
+<property type="nodeName" value="DIV"/>
+<property type="id" value="thickboxBackdrop0"/>
+<property type="css" value="DIV.thickboxBackdrop"/>
+<property type="x" value="0"/>
+<property type="y" value="25"/>
+<property type="width" value="600"/>
+<property type="height" value="999"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

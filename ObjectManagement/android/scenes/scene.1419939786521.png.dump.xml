@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="1024" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="1024"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="83" ignored="false" w="600" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="600"/>
+<property type="height" value="83"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="1000" ignored="false" w="600" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="600"/>
+<property type="height" value="1000"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="1000" ignored="false" w="600" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.widget.TabHost"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="600"/>
+<property type="height" value="1000"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="1000" ignored="false" w="600" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="600"/>
+<property type="height" value="1000"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="67" ignored="false" w="600" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="600"/>
+<property type="height" value="67"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="600" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="600"/>
+<property type="height" value="64"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="539" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.widget.TabWidget"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="539"/>
+<property type="height" value="64"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="64" ignored="false" w="269" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Apps"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="269"/>
+<property type="height" value="64"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="64" ignored="false" w="270" web="false" x="269" y="24">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Widgets"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="269"/>
+<property type="y" value="24"/>
+<property type="width" value="270"/>
+<property type="height" value="64"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="64" ignored="false" w="61" web="false" x="539" y="24">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="539"/>
+<property type="y" value="24"/>
+<property type="width" value="61"/>
+<property type="height" value="64"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="1" web="false" x="539" y="36">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="539"/>
+<property type="y" value="36"/>
+<property type="width" value="1"/>
+<property type="height" value="40"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="64" ignored="false" w="60" web="false" x="540" y="24">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Download"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="540"/>
+<property type="y" value="24"/>
+<property type="width" value="60"/>
+<property type="height" value="64"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="36" ignored="false" w="36" web="false" x="552" y="38">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="552"/>
+<property type="y" value="38"/>
+<property type="width" value="36"/>
+<property type="height" value="36"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="933" ignored="false" w="600" web="false" x="0" y="91">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="91"/>
+<property type="width" value="600"/>
+<property type="height" value="933"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="933" ignored="false" w="600" web="false" x="0" y="91">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="91"/>
+<property type="width" value="600"/>
+<property type="height" value="933"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="933" ignored="false" w="600" web="false" x="0" y="91">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="91"/>
+<property type="width" value="600"/>
+<property type="height" value="933"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="835" ignored="false" w="580" web="false" x="10" y="111">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="10"/>
+<property type="y" value="111"/>
+<property type="width" value="580"/>
+<property type="height" value="835"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="795" ignored="false" w="540" web="false" x="30" y="131">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="30"/>
+<property type="y" value="131"/>
+<property type="width" value="540"/>
+<property type="height" value="795"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children>
+<node h="120" ignored="false" w="96" web="false" x="30" y="131">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="contentDescription" value="Moby&#10;Doctor"/>
+<property type="text" value="Moby&#10;Doctor"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="30"/>
+<property type="y" value="131"/>
+<property type="width" value="96"/>
+<property type="height" value="120"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="96" web="false" x="178" y="131">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="contentDescription" value="Play Games"/>
+<property type="text" value="Play Games"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="178"/>
+<property type="y" value="131"/>
+<property type="width" value="96"/>
+<property type="height" value="120"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="96" web="false" x="326" y="131">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="contentDescription" value="Google Settings"/>
+<property type="text" value="Google Settings"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="326"/>
+<property type="y" value="131"/>
+<property type="width" value="96"/>
+<property type="height" value="120"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="96" web="false" x="474" y="131">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="contentDescription" value="SportsCenter"/>
+<property type="text" value="SportsCenter"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="474"/>
+<property type="y" value="131"/>
+<property type="width" value="96"/>
+<property type="height" value="120"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="120" ignored="false" w="96" web="false" x="30" y="266">
+<properties>
+<property type="class" value="android.widget.TextView"/>
+<property type="contentDescription" value="Flipboard"/>
+<property type="text" value="Flipboard"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="30"/>
+<property type="y" value="266"/>
+<property type="width" value="96"/>
+<property type="height" value="120"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="933" ignored="false" w="600" web="false" x="0" y="91">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="91"/>
+<property type="width" value="600"/>
+<property type="height" value="933"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1000" ignored="false" w="600" web="false" x="0" y="24">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="scrollable" value="true"/>
+<property type="checked" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="24"/>
+<property type="width" value="600"/>
+<property type="height" value="1000"/>
+<property type="onScreen" value="true"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>
